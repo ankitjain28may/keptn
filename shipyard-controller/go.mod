@@ -24,7 +24,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/swaggo/swag v1.6.7
 	github.com/xdg/stringprep v1.0.0 // indirect
-	go.mongodb.org/mongo-driver v1.4.0
+	go.mongodb.org/mongo-driver v1.4.6
 	golang.org/x/net v0.0.0-20200707034311-ab3426394381 // indirect
 	golang.org/x/sys v0.0.0-20200810151505-1b9f1253b3ed // indirect
 	golang.org/x/tools v0.0.0-20200811215021-48a8ffc5b207 // indirect
