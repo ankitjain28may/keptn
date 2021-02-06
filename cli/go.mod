@@ -13,7 +13,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-test/deep v1.0.7
 	github.com/google/gofuzz v1.1.0 // indirect
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.2.0
 	github.com/googleapis/gnostic v0.1.0 // indirect
 	github.com/hashicorp/go-version v1.2.0
 	github.com/keptn/go-utils v0.8.0-alpha.0.20210203161317-67ac0f2ba06d
