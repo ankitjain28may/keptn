@@ -15,7 +15,6 @@ require (
 	github.com/go-openapi/validate v0.19.5
 	github.com/go-playground/validator/v10 v10.3.0 // indirect
 	github.com/go-test/deep v1.0.7
-	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/google/uuid v1.2.0
 	github.com/jeremywohl/flatten v0.0.0-20190921043622-d936035e55cf
 	github.com/json-iterator/go v1.1.10 // indirect
@@ -25,11 +24,9 @@ require (
 	github.com/swaggo/swag v1.6.7
 	github.com/xdg/stringprep v1.0.0 // indirect
 	go.mongodb.org/mongo-driver v1.4.0
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381 // indirect
-	golang.org/x/sys v0.0.0-20200810151505-1b9f1253b3ed // indirect
 	golang.org/x/tools v0.0.0-20200811215021-48a8ffc5b207 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
 	k8s.io/api v0.17.2
-	k8s.io/apimachinery v0.17.2
+	k8s.io/apimachinery v0.20.4
 	k8s.io/client-go v0.17.2
 )
