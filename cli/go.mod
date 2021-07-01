@@ -13,7 +13,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-test/deep v1.0.7
 	github.com/google/gofuzz v1.1.0 // indirect
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.1.2
 	github.com/googleapis/gnostic v0.1.0 // indirect
 	github.com/hashicorp/go-version v1.2.0
 	github.com/keptn/go-utils v0.8.0-alpha.0.20210203161317-67ac0f2ba06d
@@ -25,10 +25,9 @@ require (
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/onsi/ginkgo v1.11.0 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
-	github.com/spf13/cobra v1.0.0
-	github.com/spf13/viper v1.4.0
+	github.com/spf13/cobra v1.2.0
+	github.com/spf13/viper v1.8.1
 	github.com/stretchr/testify v1.7.0
-	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools v2.2.0+incompatible
 	helm.sh/helm/v3 v3.1.2
